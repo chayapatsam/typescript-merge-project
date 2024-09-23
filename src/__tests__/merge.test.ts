@@ -1,5 +1,3 @@
-// src/__tests__/merge.test.ts
-
 import { merge } from '../merge';
 
 describe('merge function', () => {
