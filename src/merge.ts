@@ -1,5 +1,3 @@
-// src/merge.ts
-
 export function merge(collection_1: number[], collection_2: number[], collection_3: number[]): number[] {
     const result: number[] = [];
     let i = 0, j = 0, k = collection_3.length - 1;

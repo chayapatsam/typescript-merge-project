@@ -1,5 +1,3 @@
-Absolutely, here's the `README.md` file for your TypeScript Merge Project:
-
 **# TypeScript Merge Project**
 
 This project implements a `merge` function written in TypeScript that combines three sorted arrays into a single sorted array in ascending order, without utilizing any built-in sort functions. Unit tests are included using Jest to ensure functionality.
@@ -25,7 +23,7 @@ This project implements a `merge` function written in TypeScript that combines t
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/typescript-merge-project.git
+   git clone https://github.com/chayapatsam/typescript-merge-project.git
    cd typescript-merge-project
    ```
 
@@ -46,6 +44,12 @@ This project implements a `merge` function written in TypeScript that combines t
    This command compiles the TypeScript code into JavaScript for environments that don't understand TypeScript directly. However, running unit tests or using the code in other TypeScript projects doesn't require this step.
 
 ## Usage
+
+To run the application, use:
+
+```bash
+npm start
+```
 
 The `merge` function can be imported and used within your TypeScript files as follows:
 
